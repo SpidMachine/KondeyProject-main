@@ -1,0 +1,560 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:8af0c68534285b256981a94b93e5354dbe0d9e65b2c82341c5ab3b885879837a&width=100%25&height=380&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\ritm.by\services\constructor\1.0\js\index-1.htm
+Content Type: application/javascript
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:8af0c68534285b256981a94b93e5354dbe0d9e65b2c82341c5ab3b885879837a&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\ritm.by\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400%2C700|Source+Sans+Pro:700%2C900&subset=cyrillic
+File Name: C:\Downloaded Web Sites\ritm.by\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\ritm.by\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfABc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\ritm.by\s\roboto\v29\KFOmCnqEu92Fr1Mu5mxP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxdr.ttf
+File Name: C:\Downloaded Web Sites\ritm.by\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxdr-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwkxdr.ttf
+File Name: C:\Downloaded Web Sites\ritm.by\s\sourcesanspro\v19\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwkxdr-1.ttf
+Content Type: font/ttf
+
+Uri: https://ritm.by/
+File Name: C:\Downloaded Web Sites\ritm.by\index.htm
+Content Type: text/html
+
+Uri: https://ritm.by/about/
+File Name: C:\Downloaded Web Sites\ritm.by\about\index-1.htm
+Content Type: text/html
+
+Uri: https://ritm.by/about/obekty.html
+File Name: C:\Downloaded Web Sites\ritm.by\about\obekty-1.html
+Content Type: text/html
+
+Uri: https://ritm.by/about/sertifikaty.html
+File Name: C:\Downloaded Web Sites\ritm.by\about\sertifikaty-1.html
+Content Type: text/html
+
+Uri: https://ritm.by/contact.html
+File Name: C:\Downloaded Web Sites\ritm.by\contact.html
+Content Type: text/html
+
+Uri: https://ritm.by/favicon.ico
+File Name: C:\Downloaded Web Sites\ritm.by\favicon-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://ritm.by/images/demo/IMG_5011.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\demo\IMG_5011.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/obekty/IMG_0168.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\obekty\IMG_0168-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/obekty/IMG_0177.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\obekty\IMG_0177-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/obekty/IMG_0185.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\obekty\IMG_0185-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/obekty/IMG_0186.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\obekty\IMG_0186-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/obekty/IMG_5033.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\obekty\IMG_5033-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/1-1920-5.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\1-1920-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/1-425-5.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\1-425-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/2-1920-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\2-1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/2-425-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\2-425-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/3-1920-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\3-1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/3-425-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\3-425-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/4-1920-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\4-1920-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/placeholders/4-425-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\placeholders\4-425-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/at1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\at1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/at2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\at2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/at3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\at3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/gl/at1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\gl\at1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/gl/at2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\gl\at2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/gl/at3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\gl\at3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/gl/komp1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\gl\komp1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/gl/mchs1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\gl\mchs1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/gl/stb1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\gl\stb1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/komp1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\komp1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/komp2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\komp2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/mchs1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\mchs1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/mchs2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\mchs2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/mchs3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\mchs3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/mchs4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\mchs4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/ohr1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\ohr1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/ohr2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\ohr2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/ohr3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\ohr3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/sertifikat/stb1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\sertifikat\stb1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/0-360-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\0-360-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/0-360-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\0-360-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/0-360-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\0-360-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/0-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\0-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/0-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\0-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/0-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\0-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/1-360-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\1-360-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/1-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\1-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/1-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\1-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/1-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\1-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/2-360-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\2-360-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/2-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\2-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/2-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\2-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/2-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\2-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/3-360-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\3-360-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/3-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\3-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/3-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\3-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/3-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\3-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/3-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\3-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/4-360-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\4-360-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/4-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\4-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/4-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\4-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/4-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\4-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/4-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\4-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/5-360-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\5-360-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/5-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\5-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/5-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\5-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/5-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\5-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/5-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\5-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/6-360-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\6-360-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/6-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\6-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/6-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\6-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/6-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\6-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/7-360-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\7-360-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/7-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\7-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/7-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\7-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/7-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\7-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/7-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\7-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/8-360-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\8-360-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/8-848-1.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\8-848-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/8-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\8-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/8-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\8-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/8-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\8-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/9-360-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\9-360-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/9-848-2.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\9-848-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/9-848-3.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\9-848-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/services/9-848-4.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\images\services\9-848-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/images/signature.png
+File Name: C:\Downloaded Web Sites\ritm.by\images\signature.png
+Content Type: image/png
+
+Uri: https://ritm.by/services/
+File Name: C:\Downloaded Web Sites\ritm.by\services\index.htm
+Content Type: text/html
+
+Uri: https://ritm.by/services/efi/
+File Name: C:\Downloaded Web Sites\ritm.by\services\efi\index.htm
+Content Type: text/html
+
+Uri: https://ritm.by/services/efi/proverka_soprotivleniya_zazemleniya.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\efi\proverka_soprotivleniya_zazemleniya.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/efi/proverka_zazemleniya.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\efi\proverka_zazemleniya.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/elektromontazhnye_raboty_v_orshe.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\elektromontazhnye_raboty_v_orshe.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/elektrosnabzhenie/
+File Name: C:\Downloaded Web Sites\ritm.by\services\elektrosnabzhenie\index.htm
+Content Type: text/html
+
+Uri: https://ritm.by/services/elektrosnabzhenie/ustrojstvo_naruzhnyx_elektrosetej.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\elektrosnabzhenie\ustrojstvo_naruzhnyx_elektrosetej.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/elektrosnabzhenie/ustrojstvo_vnutrennyx_elektrosetej.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\elektrosnabzhenie\ustrojstvo_vnutrennyx_elektrosetej.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/obsluzhivanie_kondicionerov/
+File Name: C:\Downloaded Web Sites\ritm.by\services\obsluzhivanie_kondicionerov\index.htm
+Content Type: text/html
+
+Uri: https://ritm.by/services/obsluzhivanie_kondicionerov/remont_kondicionerov.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\obsluzhivanie_kondicionerov\remont_kondicionerov.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/obsluzhivanie_kondicionerov/remont_kondicionerov_v_orshe.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\obsluzhivanie_kondicionerov\remont_kondicionerov_v_orshe.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/obsluzhivanie_kondicionerov/ustanovka_kondicionerov.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\obsluzhivanie_kondicionerov\ustanovka_kondicionerov.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/obsluzhivanie_kondicionerov/ustanovka_kondicionerov_v_orshe.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\obsluzhivanie_kondicionerov\ustanovka_kondicionerov_v_orshe.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\index.htm
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/montazh_i_obsluzhivanie_pozharnoj_signalizacii.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\montazh_i_obsluzhivanie_pozharnoj_signalizacii.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/montazh_i_obsluzhivanie_setej_i_sistem_svyazi.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\montazh_i_obsluzhivanie_setej_i_sistem_svyazi.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/montazh_i_obsluzhivanie_sistem_avtomatiki.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\montazh_i_obsluzhivanie_sistem_avtomatiki.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/montazh_i_obsluzhivanie_sistem_videonabludeniya.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\montazh_i_obsluzhivanie_sistem_videonabludeniya.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/sistemy_videonablyudeniya_v_orshe.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\sistemy_videonablyudeniya_v_orshe.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/ustanovka_sistem_bezopasnosti_i_videonablyudeniya.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\ustanovka_sistem_bezopasnosti_i_videonablyudeniya.html
+Content Type: text/html
+
+Uri: https://ritm.by/services/slabotochnye_seti/ustanovka_sistem_videonablyudeniya.html
+File Name: C:\Downloaded Web Sites\ritm.by\services\slabotochnye_seti\ustanovka_sistem_videonablyudeniya.html
+Content Type: text/html
+
+Uri: https://ritm.by/sitemap.html
+File Name: C:\Downloaded Web Sites\ritm.by\sitemap.html
+Content Type: text/html
+
+Uri: https://ritm.by/templates/all/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\css\magnific-popup-1.css
+Content Type: text/css
+
+Uri: https://ritm.by/templates/all/css/style.css
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\css\style-1.css
+Content Type: text/css
+
+Uri: https://ritm.by/templates/all/css/style_feedback.css
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\css\style_feedback.css
+Content Type: text/css
+
+Uri: https://ritm.by/templates/all/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ritm.by/templates/all/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ritm.by/templates/all/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://ritm.by/templates/all/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://ritm.by/templates/all/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://ritm.by/templates/all/images/blured.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\images\blured.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/templates/all/images/core_values_bg.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\images\core_values_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/templates/all/images/counter_bg.jpg
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\images\counter_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ritm.by/templates/all/images/logo-footer.png
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\images\logo-footer-1.png
+Content Type: image/png
+
+Uri: https://ritm.by/templates/all/images/logo.png
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\images\logo-1.png
+Content Type: image/png
+
+Uri: https://ritm.by/templates/all/js/bootstrap/button.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\bootstrap\button-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/bootstrap/carousel.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\bootstrap\carousel-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/bootstrap/collapse.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\bootstrap\collapse-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/bootstrap/transition.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\bootstrap\transition-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/bootstrap/validator.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\bootstrap\validator-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/custom.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\custom-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/jquery-2.1.4.min.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\jquery-2.1.4.min-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\jquery.magnific-popup.min-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/modernizr.custom.24530.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\modernizr.custom.24530-1.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/NumberCounter.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\NumberCounter.js
+Content Type: application/javascript
+
+Uri: https://ritm.by/templates/all/js/underscore.js
+File Name: C:\Downloaded Web Sites\ritm.by\templates\all\js\underscore-1.js
+Content Type: application/javascript
+

@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/****** форма обратной связи ******/
+.feedback{
+    border:0;
+    width:100%;
+}
+.feedback table { 
+    width: 100%; /* Ширина таблицы */
+    border: 0 #eeeeee; /* Рамка вокруг таблицы */
+    border-collapse: collapse; /* Отображать только одинарные линии */
+}
+
+
+/***** guestbook & feedback *****/
+
+#captcha{
+  background-color: #FFFFFF;
+  border: 1px solid #969696;
+  display: inline;
+  cursor: pointer;
+}
+#guestbook #captcha { margin: 0 0 -5px 0 !important; }
+.error {
+  border: 1px solid #D23838;
+  background-color: #FFDEDE;
+  color: #D23838;
+  padding: 3px 10px;
+}
+.info{
+  border: 1px solid #66CC00;
+  background-color: #F0FFC4;
+  color: #66CC00;
+  padding: 3px 10px;
+}
+.guestbook{
+  border-collapse: collapse;
+  width:100%;
+}
+.guestbook TD{
+  padding: 3px;
+}
+.guestbook input,.guestbook textarea {
+    width:100%;
+    border: 1px solid #969696;
+    color: #3E3E3E;
+}
+.guestbook input:hover,.guestbook textarea:hover {
+    border-color: #000;
+    color: #000;
+}
+.gb_post{
+  background-color: #F4F4F4;
+  border: 1px solid #D3D3D3;
+  padding: 10px;
+  margin:15px 0;
+  position: relative;
+}
+
+.gb_post2{
+  width:184px;
+  background-color: #FCFCFC;
+  border: 1px solid #D3D3D3;
+  padding: 3px 6px 3px 6px;
+  margin:15px 0;
+  position: relative;
+}
+
+.gb_subj{
+  font-weight: bold;
+  border-bottom: 1px dashed #D3D3D3;
+}
+.gb_date{
+
+  color: #7F7F7F;
+  padding-left: 5px;
+  font-weight: normal;
+  float: right;
+  font-size: 80%;
+}
+.gb_author {
+  color: #627491;
+  padding-left: 20px;
+  line-height: 20px;
+  background-image: url(images/mail.png);
+  background-repeat: no-repeat;
+}
+.gb_message{
+  clear: both;
+}
+.gb_comment_link{
+  background-image: url(images/comments.png);
+  background-repeat: no-repeat;
+  color: #333333;
+  padding-left: 20px;
+  line-height: 20px;
+  margin-left: 10px;
+}
+.gb_comment{
+  background-color: transparent;
+  border: 1px dashed #D3D3D3;
+  padding: 10px;
+  margin:5px 0 5px 20px;
+  position: relative;
+}
+.gb_nav a{
+  border:1px solid #D3D3D3;
+  background-color: #E8E8E8;
+  text-decoration: none;
+  padding:5px;
+  margin: 3px;
+  color: #000000;
+}
+.gb_nav a:hover{
+  color: #627491;
+  border-color: #627491;
+}
+.gb_nav a.current{
+  font-weight: bold;
+  color: #627491;
+  border-color: #000000;
+}
