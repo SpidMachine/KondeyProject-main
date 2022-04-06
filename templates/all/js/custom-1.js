@@ -206,7 +206,7 @@ $(function () {
 
                 $('#loader').fadeOut();
 
-                if (ret == "Message sent!") {
+                if (ret === "Message sent!") {
 
                     theForm.find('.response.success').fadeIn();
 
@@ -241,3 +241,5 @@ $(function () {
     });
 
 })
+
+

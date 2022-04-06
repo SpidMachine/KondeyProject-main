@@ -8,6 +8,9 @@
     <orderEntry type="library" name="jquery-3.6.0" level="application" />
     <orderEntry type="library" name="sweetalert" level="application" />
     <orderEntry type="library" name="api" level="application" />
+    <orderEntry type="library" name="api" level="application" />
+    <orderEntry type="library" name="jquery-3.6.0" level="application" />
+    <orderEntry type="library" name="sweetalert" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_FOLDERS">

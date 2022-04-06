@@ -4735,6 +4735,9 @@ form.trackForm button {
 
 /* Skype */
 
+.g-recaptcha {
+    margin: 10px 0 10px 0;
+}
 
 /* 05.19. Fleet Gallery */
 .alignnone, .aligncenter, .alignright, .alignleft {
